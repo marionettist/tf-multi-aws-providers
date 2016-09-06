@@ -1,0 +1,5 @@
+aws_region                    = "eu-west-1"
+account1_state_bucket_name    = "tf-issue-state-account1"
+account1_state_bucket_key     = "account1-dependencies.tfstate"
+account2_state_bucket_name    = "tf-issue-state-account2"
+account2_state_bucket_key     = "account2-dependencies.tfstate"

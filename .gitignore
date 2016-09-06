@@ -1,0 +1,6 @@
+.project
+*.tfstate*
+.terraform/
+.idea
+*.dot
+*.orig
